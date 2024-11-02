@@ -1,4 +1,4 @@
 # SovArkTeht4
-Sovellusarkkitehtuurit tehtävä 3 AppLogger
-Avaa Power Shell -työkalulla App-kansio ja komento dotnet run.
+Sovellusarkkitehtuurit tehtava 3 AppLogger
+Avaa PowerShell -tyokalulla App-kansio ja anna komento dotnet run.
 Ohjelma avautuu konsolissa.
